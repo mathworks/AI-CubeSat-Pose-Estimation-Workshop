@@ -23,6 +23,3 @@ Copyright 2024 The MathWorks, Inc.
 * [Image Processing Toolbox&trade;](https://www.mathworks.com/products/image.html)
 * [Computer Vision Toolbox&trade;](https://www.mathworks.com/products/computer-vision.html)
 * [Aerospace Toolbox&trade;](https://www.mathworks.com/products/aerospace-toolbox.html)
-
-## Recording
-* [Workshop recording](https://mathworks-my.sharepoint.com/:v:/p/rteramot/EYPvVFHdZFpDopNxWQgOfVEBa0hGghPhfeYVouaOiFGLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gJTQNt)
